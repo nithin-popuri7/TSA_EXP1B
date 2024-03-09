@@ -54,7 +54,8 @@ plt.plot(x,y)
 
 
 ### OUTPUT:
-![1b1 - Copy](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/da5a55d3-57e4-42bc-8d12-ffa075ff6816)
+
+![1b1](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/dd9b3858-18bd-4d70-a3ee-9b46ae029bf0)
 
 
 
