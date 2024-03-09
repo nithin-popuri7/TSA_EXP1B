@@ -25,9 +25,7 @@ plt.xlabel('Month')
 plt.ylabel('No. of passengers in thousands.')
 plt.plot(x,y)
 ```
-```
 ### REGULAR DIFFERENCING:
-```
 ```
 data1=data
 data1['diff']=data1.iloc[:,1].diff(periods=1)
@@ -38,9 +36,7 @@ plt.xlabel('Month')
 plt.ylabel('No. of passengers in thousands.')
 plt.plot(x,y)
 ```
-```
 ### LOG TRANSFORMATION:
-```
 ```
 data3=data
 data3['log']=np.log(data3['diff']).dropna()
