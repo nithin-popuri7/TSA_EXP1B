@@ -62,6 +62,7 @@ plt.plot(x,y)
 
 
 REGULAR DIFFERENCING:
+
 ![1b2](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/aba24b45-6dd8-4071-8fc7-1a2e6a2d03a4)
 
 
