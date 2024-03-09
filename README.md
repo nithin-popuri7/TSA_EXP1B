@@ -55,14 +55,29 @@ plt.plot(x,y)
 
 ### OUTPUT:
 
+![1b1 - Copy](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/da5a55d3-57e4-42bc-8d12-ffa075ff6816)
+
+
+
+
 
 REGULAR DIFFERENCING:
+![1b2](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/aba24b45-6dd8-4071-8fc7-1a2e6a2d03a4)
+
 
 
 SEASONAL ADJUSTMENT:
 
+![1b3](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/ceae5b99-39b0-453f-b890-b32baf19b0fb)
+
+
+
 
 LOG TRANSFORMATION:
+
+![1b4](https://github.com/nithin-popuri7/TSA_EXP1B/assets/94154780/b979fef7-0f36-4fd6-9767-9a51951547ce)
+
+
 
 
 
